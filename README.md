@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @karmapatel
-- 👀 I’m interested in competitive coding
 - 🌱 I’m currently learning web developing
 - 💞️ ...
 - 📫 How to reach me - karmapatel4@gmail.com
