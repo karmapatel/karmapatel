@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="./assets/karma-header.gif" alt="Karma Patel animated profile header" width="100%"/>
+<img src="karma-header.gif" alt="Karma Patel animated profile header" width="100%"/>
 
 <br>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/karmapatel">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/karma-patel-212277375/">
   <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<a href="https://github.com/karmapatel?tab=repositories">
   <img src="https://img.shields.io/badge/Projects-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
@@ -36,7 +36,7 @@ Core tools              → Python • Flask • SQL • C/C++
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/YOUR_GITHUB_USERNAME" alt="GitHub contribution heatmap" width="95%"/>
+<img src="https://ghchart.rshah.org/karmapatel" alt="GitHub contribution heatmap" width="95%"/>
 
 </div>
 
@@ -75,8 +75,8 @@ Disaster-management platform concept focused on reporting societal problems and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karmapatel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmapatel&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
 
 </div>
 
@@ -86,8 +86,8 @@ Disaster-management platform concept focused on reporting societal problems and 
 
 ### Let's build something useful.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+<a href="https://github.com/karmapatel">GitHub</a>
 &nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/karma-patel-212277375/">LinkedIn</a>
 
 </div>
