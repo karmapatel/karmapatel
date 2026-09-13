@@ -6,9 +6,9 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=karmapatel&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" />
+<!-- <img src="https://komarev.com/ghpvc/?username=karmapatel&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" />
 
-<br><br>
+<br><br> -->
 
 <a href="https://github.com/karmapatel">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
