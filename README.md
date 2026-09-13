@@ -1,4 +1,5 @@
 <div align="center">
+
 <a href="https://github.com/karmapatel">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Karma+Patel+%F0%9F%91%8B;Backend+%7C+Cloud+%7C+AI;Building+things+with+Python+%26+Flask;Turning+ideas+into+working+software" />
 </a>
@@ -22,14 +23,24 @@
 </a>
 
 </div>
-<br><br>
 
+<br><br>
 
 ## About
 
 I'm a Computer Science student interested in **backend engineering, cloud infrastructure, and practical AI integration**.
 
 I enjoy turning ideas into working software and learning the engineering behind the systems I build.
+
+<br>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=8B949E&center=true&vCenter=true&width=650&lines=%3E+building+backend+systems...;%3E+designing+APIs...;%3E+working+with+databases...;%3E+exploring+cloud+%26+AI...;%3E+learning+something+new+every+day..." />
+
+</div>
+
+<br>
 
 ```text
 Currently building      → Backend projects & APIs
@@ -78,33 +89,6 @@ Temporary file-sharing application using short codes, expiration windows and dir
 Disaster-management platform focused on reporting societal problems and matching them with potential solutions and collaborators.
 
 **Stack:** TypeScript · Backend APIs · AI integration · Database systems
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=karmapatel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=86400"
-alt="Karma Patel GitHub statistics"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmapatel&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400"
-alt="Karma Patel top languages"
-/>
-
-<br><br>
-
-<img
-src="https://streak-stats.demolab.com?user=karmapatel&theme=transparent&hide_border=true"
-alt="Karma Patel GitHub streak"
-/>
-
-</div>
 
 ---
 
