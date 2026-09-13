@@ -1,82 +1,161 @@
 <div align="center">
 
-<img src="karma-header.gif" alt="Karma Patel animated profile header" width="100%"/>
+<a href="https://github.com/karmapatel">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Karma+Patel+%F0%9F%91%8B;Backend+%7C+Cloud+%7C+AI;Building+things+with+Python+%26+Flask;Turning+ideas+into+working+software" />
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=karmapatel&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" />
+
+<br><br>
+
+**`Software Developer in Progress`**
+
+`Python` · `Flask` · `SQL` · `Cloud` · `AI`
 
 <br>
 
 <a href="https://github.com/karmapatel">
-  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/karma-patel-212277375/">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/karmapatel?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
 
-<br>
+---
 
-## About
-
-I'm a Computer Science student interested in **backend engineering, cloud infrastructure, and practical AI integration**.
-
-I enjoy turning ideas into working software and learning the engineering behind the systems I build.
+## `> whoami`
 
 ```text
-Currently building      → Backend projects & APIs
-Currently learning      → DSA • Docker • Cloud • AI integrations
-Core tools              → Python • Flask • SQL • C/C++
+KARMA PATEL
+────────────────────────────────────────
+
+Role        : Software Developer in Progress
+Focus       : Backend Engineering
+Exploring   : Cloud • AI • Distributed Systems
+Currently   : Building + Learning + Shipping
+
+Languages   : Python • C • C++ • SQL
+Backend     : Flask • REST APIs • SQLAlchemy
+Database    : PostgreSQL • Supabase
+Cloud       : Learning Cloud & DevOps
 ```
 
 ---
 
-## Contribution Activity
-
 <div align="center">
 
-<img src="https://ghchart.rshah.org/karmapatel" alt="GitHub contribution heatmap" width="95%"/>
+## `// CURRENTLY BUILDING`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=700&color=7CFF6B&center=true&vCenter=true&width=650&lines=Backend+APIs+%E2%9A%A1;Cloud-ready+Flask+applications+%E2%98%81%EF%B8%8F;AI-powered+applications+%F0%9F%A4%96;Learning+DSA+%26+System+Design+%F0%9F%A7%A0" />
 
 </div>
 
 ---
 
-## Tech Stack
+## `01 / TECH STACK`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,cpp,c,postgresql,supabase,git,github,docker&perline=9" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,flask,postgres,supabase,html,css,js,git,github,docker,linux&perline=7" />
 
 </div>
 
 ---
 
-## Selected Projects
+## `02 / PROJECTS`
 
-### TaskFlow
-Project and task management platform built with Flask, SQLAlchemy and Supabase.
+<table>
+<tr>
+<td width="50%">
 
-**Stack:** Python · Flask · SQLAlchemy · PostgreSQL · Jinja2
+### ⚡ TaskFlow
 
-### FileShare
-Temporary file-sharing application using short codes, expiration windows and direct file downloads.
+A task & project management platform built around real-world workflow management.
 
-**Stack:** Python · Flask · Supabase · PostgreSQL
+**Stack**
 
-### RahatSetu
-Disaster-management platform concept focused on reporting societal problems and matching them with potential solutions and collaborators.
+`Flask` `SQLAlchemy` `PostgreSQL` `Supabase`
 
-**Stack:** Python · Backend APIs · AI integration · Database systems
+</td>
+
+<td width="50%">
+
+### 📁 FileShare
+
+Temporary document sharing using short-lived access codes and direct downloads.
+
+**Stack**
+
+`Flask` `PostgreSQL` `Cloud Storage`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏦 Banking Platform
+
+India-focused banking web application exploring UPI, payments and financial workflows.
+
+**Stack**
+
+`Flask` `SQL` `Supabase` `AI`
+
+</td>
+
+<td width="50%">
+
+### 🌊 RahatSetu
+
+A disaster-management platform connecting reported problems with potential solutions.
+
+**Stack**
+
+`Python` `AI` `APIs` `Cloud`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub Stats
+<div align="center">
+
+## `03 / CONTRIBUTION ACTIVITY`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karmapatel&theme=github-compact&hide_border=true&area=true" width="95%"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karmapatel&theme=transparent&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=karmapatel&show_icons=true&theme=transparent&hide_border=true&count_private=true" width="48%" />
+
+</div>
+
+---
+
+## `04 / GITHUB`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=karmapatel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmapatel&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmapatel&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+
+<br><br>
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   BUILD → BREAK → DEBUG → LEARN → REPEAT    │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -84,10 +163,18 @@ Disaster-management platform concept focused on reporting societal problems and 
 
 <div align="center">
 
-### Let's build something useful.
+### `LET'S CONNECT`
 
-<a href="https://github.com/karmapatel">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/karma-patel-212277375/">LinkedIn</a>
+<a href="https://github.com/karmapatel">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/karma-patel-212277375/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7C3AED&height=100&section=footer"/>
 
 </div>
