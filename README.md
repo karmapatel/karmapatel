@@ -37,7 +37,7 @@ I'm a Computer Science student interested in **backend engineering, cloud infras
 I enjoy turning ideas into working software and learning the engineering behind the systems I build.
 
 <div align="center">
-  <img src="gemini-svg.svg" alt="Karma Patel - Backend Developer" />
+  <img src="about.svg" alt="Karma Patel - Backend Developer" />
 </div>
 
 </div>
