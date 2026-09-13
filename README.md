@@ -1,8 +1,12 @@
-<div align="center">
-
-<img src="karma-header.gif" alt="Karma Patel animated profile header" width="100%"/>
+<a href="https://github.com/karmapatel">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Karma+Patel+%F0%9F%91%8B;Backend+%7C+Cloud+%7C+AI;Building+things+with+Python+%26+Flask;Turning+ideas+into+working+software" />
+</a>
 
 <br>
+
+<img src="https://komarev.com/ghpvc/?username=karmapatel&label=PROFILE+VIEWS&color=36BCF7&style=flat-square" />
+
+<br><br>
 
 <a href="https://github.com/karmapatel">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -14,9 +18,8 @@
   <img src="https://img.shields.io/badge/Projects-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
 
 ## About
 
