@@ -24,28 +24,26 @@
 
 </div>
 
-<br>
+<br><br>
 
 ---
 
 ## About
 
-I'm a Computer Science student interested in **backend engineering, cloud infrastructure, and practical AI integration**.
-
-I enjoy turning ideas into working software and understanding the engineering behind the systems I build.
-
 <div align="center">
 
-### Building from idea to production
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=%F0%9F%92%A1+IDEA+%E2%86%92+%F0%9F%A7%91%8D%F0%9F%92%BB+BUILD+%E2%86%92+%E2%9A%99%EF%B8%8F+API+%E2%86%92+%F0%9F%97%84%EF%B8%8F+DATA+%E2%86%92+%E2%98%81%EF%B8%8F+DEPLOY+%E2%86%92+%F0%9F%9A%80+LIVE" alt="Development pipeline"/>
-
-<br>
-
 ```text
-Currently building  → Service Ticket System
-Currently learning  → DSA • Docker • Cloud • AI integrations
-Core tools          → Python • Flask • SQL • C/C++
+╭────────────────────────────────────────────╮
+│  ● ONLINE                                  │
+│                                            │
+│  Karma Patel                               │
+│  Backend Developer                         │
+│                                            │
+│  Python   Flask   SQL   Cloud   AI         │
+│                                            │
+│  ⚡ Currently building                     │
+│     Service Ticket System                  │
+╰────────────────────────────────────────────╯
 ```
 
 </div>
