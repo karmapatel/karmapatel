@@ -55,19 +55,22 @@ Core tools              → Python • Flask • SQL • C/C++
 ## Selected Projects
 
 ### TaskFlow
+
 Project and task management platform built with Flask, SQLAlchemy and Supabase.
 
 **Stack:** Python · Flask · SQLAlchemy · PostgreSQL · Jinja2
 
 ### DropShare
+
 Temporary file-sharing application using short codes, expiration windows and direct file downloads.
 
 **Stack:** Python · Flask · Supabase · PostgreSQL
 
 ### RahatSetu (SIH)
-Disaster-management platform concept focused on reporting societal problems and matching them with potential solutions and collaborators.
 
-**Stack:** Typescript · Backend APIs · AI integration · Database systems
+Disaster-management platform focused on reporting societal problems and matching them with potential solutions and collaborators.
+
+**Stack:** TypeScript · Backend APIs · AI integration · Database systems
 
 ---
 
@@ -75,8 +78,24 @@ Disaster-management platform concept focused on reporting societal problems and 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=karmapatel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmapatel&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=karmapatel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&cache_seconds=86400"
+alt="Karma Patel GitHub statistics"
+/>
+
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=karmapatel&layout=compact&hide_border=true&theme=transparent&cache_seconds=86400"
+alt="Karma Patel top languages"
+/>
+
+<br><br>
+
+<img
+src="https://streak-stats.demolab.com?user=karmapatel&theme=transparent&hide_border=true"
+alt="Karma Patel GitHub streak"
+/>
 
 </div>
 
@@ -87,7 +106,14 @@ Disaster-management platform concept focused on reporting societal problems and 
 ### Let's build something useful.
 
 <a href="https://github.com/karmapatel">GitHub</a>
-&nbsp; · &nbsp;
-<a href="https://www.linkedin.com/in/karma-patel-212277375/">LinkedIn</a>
+  ·   <a href="https://www.linkedin.com/in/karma-patel-212277375/">LinkedIn</a>
+
+<br><br>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7C3AED&height=100&section=footer"
+width="100%"
+alt="Animated gradient footer"
+/>
 
 </div>
