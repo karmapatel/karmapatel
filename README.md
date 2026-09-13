@@ -32,6 +32,10 @@
 
 <div align="center">
 
+I'm a Computer Science student interested in **backend engineering, cloud infrastructure, and practical AI integration**.
+
+I enjoy turning ideas into working software and learning the engineering behind the systems I build.
+
 ```text
 ╭────────────────────────────────────────────╮
 │  ● ONLINE                                  │
@@ -96,23 +100,8 @@ Disaster-management platform focused on reporting societal problems and matching
 
 ### Let's build something useful.
 
-<br>
-
-<a href="https://github.com/karmapatel">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg"
-       width="42"
-       height="42"
-       alt="GitHub"/>
-</a>
-
-      
-
-<a href="https://www.linkedin.com/in/karma-patel-212277375/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
-       width="42"
-       height="42"
-       alt="LinkedIn"/>
-</a>
+<a href="https://github.com/karmapatel">GitHub</a>
+  ·   <a href="https://www.linkedin.com/in/karma-patel-212277375/">LinkedIn</a>
 
 <br><br>
 
