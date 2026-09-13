@@ -78,11 +78,11 @@ Temporary file-sharing application using short codes, expiration windows and dir
 
 **Stack:** Python · Flask · Supabase · PostgreSQL
 
-### RahatSetu
+### NeoBank - Next-Gen Digital Banking Platform
 
-Disaster-management platform focused on reporting societal problems and matching them with potential solutions and collaborators.
+A modern digital banking clone designed to simulate transactions, account management, dynamic loan system and more.
 
-**Stack:** TypeScript · Backend APIs · AI Integration · Database Systems
+**Stack:** Flask · Backend APIs · Supabase · PostgreSQL
 
 ---
 
