@@ -36,41 +36,21 @@ I enjoy turning ideas into working software and learning the engineering behind 
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
-```text
-┌──────────────────────────────────────────────┐
-│  karma@developer:~$                          │
-│                                              │
-│  $ whoami                                    │
-│  > backend developer in progress             │
-│                                              │
-│  $ focus                                     │
-│  > APIs • databases • cloud • AI             │
-│                                              │
-│  $ stack                                     │
-│  > Python • Flask • SQL • C/C++              │
-│                                              │
-│  $ status                                    │
-│  > ████████████████████░░░  learning...      │
-│                                              │
-│  $ next                                      │
-│  > DSA → Docker → Cloud → AI                 │
-│                                              │
-└──────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=700&color=36BCF7&center=true&vCenter=true&width=650&lines=%5B+BACKEND+%5D+%E2%86%92+%5B+DATABASES+%5D+%E2%86%92+%5B+CLOUD+%5D;%5B+IDEA+%5D+%E2%86%92+%5B+CODE+%5D+%E2%86%92+%5B+DEPLOY+%5D;%5B+LEARN+%5D+%E2%86%92+%5B+BUILD+%5D+%E2%86%92+%5B+REPEAT+%5D" alt="Animated developer workflow"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=%24+building+something+useful...;%24+debugging+something+broken...;%24+learning+how+systems+work...;%24+turning+ideas+into+software...;%24+repeat+%E2%86%92+repeat+%E2%86%92+repeat" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2400&pause=800&color=8B949E&center=true&vCenter=true&width=500&lines=Python+%E2%80%A2+Flask+%E2%80%A2+SQL;Docker+%E2%80%A2+Cloud+%E2%80%A2+AI;Currently+learning+DSA..." alt="Currently learning"/>
 
 </div>
+
+<br>
+
+```text
+Currently building  → Backend projects & APIs
+Currently learning  → DSA • Docker • Cloud • AI
+Core tools          → Python • Flask • SQL • C/C++
+```
 
 ---
 
@@ -123,13 +103,23 @@ Disaster-management platform focused on reporting societal problems and matching
 <br>
 
 <a href="https://github.com/karmapatel">
-  <img src="https://cdn.simpleicons.org/github/18181B" width="45" height="45" alt="GitHub"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg"
+    width="42"
+    height="42"
+    alt="GitHub"
+  />
 </a>
 
       
 
 <a href="https://www.linkedin.com/in/karma-patel-212277375/">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+  <img
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg"
+    width="42"
+    height="42"
+    alt="LinkedIn"
+  />
 </a>
 
 <br><br>
