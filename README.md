@@ -36,17 +36,41 @@ I enjoy turning ideas into working software and learning the engineering behind 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=8B949E&center=true&vCenter=true&width=650&lines=%3E+building+backend+systems...;%3E+designing+APIs...;%3E+working+with+databases...;%3E+exploring+cloud+%26+AI...;%3E+learning+something+new+every+day..." />
+<table>
+<tr>
+<td>
 
-</div>
+```text
+┌──────────────────────────────────────────────┐
+│  karma@developer:~$                          │
+│                                              │
+│  $ whoami                                    │
+│  > backend developer in progress             │
+│                                              │
+│  $ focus                                     │
+│  > APIs • databases • cloud • AI             │
+│                                              │
+│  $ stack                                     │
+│  > Python • Flask • SQL • C/C++              │
+│                                              │
+│  $ status                                    │
+│  > ████████████████████░░░  learning...      │
+│                                              │
+│  $ next                                      │
+│  > DSA → Docker → Cloud → AI                 │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 
 <br>
 
-```text
-Currently building      → Backend projects & APIs
-Currently learning      → DSA • Docker • Cloud • AI integrations
-Core tools              → Python • Flask • SQL • C/C++
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=%24+building+something+useful...;%24+debugging+something+broken...;%24+learning+how+systems+work...;%24+turning+ideas+into+software...;%24+repeat+%E2%86%92+repeat+%E2%86%92+repeat" />
+
+</div>
 
 ---
 
@@ -96,8 +120,17 @@ Disaster-management platform focused on reporting societal problems and matching
 
 ### Let's build something useful.
 
-<a href="https://github.com/karmapatel">GitHub</a>
-  ·   <a href="https://www.linkedin.com/in/karma-patel-212277375/">LinkedIn</a>
+<br>
+
+<a href="https://github.com/karmapatel">
+  <img src="https://cdn.simpleicons.org/github/18181B" width="45" height="45" alt="GitHub"/>
+</a>
+
+      
+
+<a href="https://www.linkedin.com/in/karma-patel-212277375/">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+</a>
 
 <br><br>
 
